@@ -1,3 +1,1 @@
-# [The Matthew Effect](themattheweffect.org)
-
-
+# [The Matthew Effect](http://themattheweffect.org/)
